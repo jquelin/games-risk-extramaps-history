@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::Map::Roman_empire;
 {
-  $Games::Risk::Map::Roman_empire::VERSION = '1.112690';
+  $Games::Risk::Map::Roman_empire::VERSION = '3.112691';
 }
 # ABSTRACT: Roman Empire Map
 
@@ -213,7 +213,7 @@ Games::Risk::Map::Roman_empire - Roman Empire Map
 
 =head1 VERSION
 
-version 1.112690
+version 3.112691
 
 =head1 DESCRIPTION
 

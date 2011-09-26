@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::ExtraMaps::History;
 {
-  $Games::Risk::ExtraMaps::History::VERSION = '1.112690';
+  $Games::Risk::ExtraMaps::History::VERSION = '3.112691';
 }
 # ABSTRACT: a set of historic maps for Games::Risk
 
@@ -34,7 +34,7 @@ Games::Risk::ExtraMaps::History - a set of historic maps for Games::Risk
 
 =head1 VERSION
 
-version 1.112690
+version 3.112691
 
 =head1 DESCRIPTION
 

@@ -47,11 +47,11 @@
    "provides" : {
       "Games::Risk::ExtraMaps::History" : {
          "file" : "lib/Games/Risk/ExtraMaps/History.pm",
-         "version" : "1.112690"
+         "version" : "3.112691"
       },
       "Games::Risk::Map::Roman_empire" : {
          "file" : "lib/Games/Risk/Map/Roman_empire.pm",
-         "version" : "1.112690"
+         "version" : "3.112691"
       }
    },
    "release_status" : "stable",
@@ -67,7 +67,7 @@
          "web" : "http://github.com/jquelin/games-risk-extramaps-history"
       }
    },
-   "version" : "1.112690",
+   "version" : "3.112691",
    "x_Dist_Zilla" : {
       "plugins" : [
          {

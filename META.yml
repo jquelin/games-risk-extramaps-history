@@ -19,10 +19,10 @@ name: Games-Risk-ExtraMaps-History
 provides:
   Games::Risk::ExtraMaps::History:
     file: lib/Games/Risk/ExtraMaps/History.pm
-    version: 1.112690
+    version: 3.112691
   Games::Risk::Map::Roman_empire:
     file: lib/Games/Risk/Map/Roman_empire.pm
-    version: 1.112690
+    version: 3.112691
 requires:
   Games::Risk::ExtraMaps: 0
   Games::Risk::Map: 0
@@ -36,7 +36,7 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Games-Risk-ExtraMaps-History
   homepage: http://search.cpan.org/dist/Games-Risk-ExtraMaps-History/
   repository: git://github.com/jquelin/games-risk-extramaps-history.git
-version: 1.112690
+version: 3.112691
 x_Dist_Zilla:
   plugins:
     -
