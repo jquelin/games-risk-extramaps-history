@@ -1,8 +1,20 @@
+#
+# This file is part of Games-Risk-ExtraMaps-History
+#
+# This software is Copyright (c) 2011 by Jerome Quelin.
+#
+# This is free software, licensed under:
+#
+#   The GNU General Public License, Version 3, June 2007
+#
 use 5.010;
 use strict;
 use warnings;
 
 package Games::Risk::Map::Roman_empire;
+{
+  $Games::Risk::Map::Roman_empire::VERSION = '1.112690';
+}
 # ABSTRACT: Roman Empire Map
 
 use Moose;
@@ -191,8 +203,36 @@ no Moose;
 __PACKAGE__->meta->make_immutable;
 
 1;
-__END__
+
+
+=pod
+
+=head1 NAME
+
+Games::Risk::Map::Roman_empire - Roman Empire Map
+
+=head1 VERSION
+
+version 1.112690
 
 =head1 DESCRIPTION
 
 Roman Empire Map by Adrien Schvalberg.
+
+=head1 AUTHOR
+
+Jerome Quelin
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2011 by Jerome Quelin.
+
+This is free software, licensed under:
+
+  The GNU General Public License, Version 3, June 2007
+
+=cut
+
+
+__END__
+
